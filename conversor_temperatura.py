@@ -15,4 +15,5 @@ print("--------------------")
 print("-----resultados-----")
 print("--------------------")
 
-print("")
+print("la conversion de C a F es: " +str(F))
+print("la conversion de C a K es: " +str(K))
